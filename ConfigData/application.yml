@@ -6,7 +6,7 @@ eureka:
 # spring:
 #   oauth2:
 #     resource:
-#       userInfoUri: http://localhost:9999/gfm/user
+#       userInfoUri: http://localhost:9999/uaa/user
 
 ---
 spring:
